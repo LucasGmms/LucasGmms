@@ -1,16 +1,27 @@
-## Hi there 👋
+Olá! Eu sou o Lucas 👋
 
-<!--
-**LucasGmms/LucasGmms** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou estudante de desenvolvimento de software, com conhecimentos iniciais em Análise e Desenvolvimento de Sistemas (ADS).
 
-Here are some ideas to get you started:
+Atualmente, estou aprofundando meus conhecimentos em programação, desenvolvendo projetos práticos e explorando novas tecnologias.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Tecnologias em aprendizado
+
+- HTML
+- CSS
+- JavaScript
+
+🚀 Meus projetos
+
+Aqui compartilho meus projetos, experiências de aprendizado e soluções desenvolvidas durante minha jornada na programação.
+
+Entre eles está o AutoGestor, um sistema de gerenciamento de clientes, veículos e manutenções automotivas, inspirado na minha experiência profissional no setor automotivo.
+
+🎯 Objetivo
+
+Conquistar uma oportunidade na área de tecnologia, ampliar meus conhecimentos e evoluir continuamente como desenvolvedor.
+
+Acredito no aprendizado constante, na prática e na construção de soluções para problemas reais.
+
+---
+
+Sempre aprendendo, criando e evoluindo! 🚀
